@@ -1,4 +1,4 @@
-📊 Sales Planning Analysis Project
+<img width="1704" height="1312" alt="image" src="https://github.com/user-attachments/assets/fbd4701f-b4f5-4039-847d-b2f5f0c1134b" />📊 Sales Planning Analysis Project
 Date: August 2025
 Tools: Power BI, Excel, DAX, SQL Server
 
@@ -57,7 +57,17 @@ Identify top-performing stores and those at risk of missing targets.
 
 Track seasonal and yearly growth patterns.
 
+
 Monitor execution gaps at regional and product category levels.
 
 Provide executives with data-driven decision-making tools.
+
+<img width="1704" height="1312" alt="image" src="https://github.com/user-attachments/assets/3b11928f-2851-4abe-a450-519c5c9b93f9" />
+<img width="1967" height="1106" alt="image" src="https://github.com/user-attachments/assets/208488d4-dd1d-43e6-aec8-1bc94831e94c" />
+<img width="1959" height="1101" alt="image" src="https://github.com/user-attachments/assets/c1421194-2ab0-415e-aea7-e5bf1489d807" />
+<img width="1962" height="1093" alt="image" src="https://github.com/user-attachments/assets/e03ece28-1ffe-4901-807a-4fbbb8f48d31" />
+<img width="1969" height="1080" alt="image" src="https://github.com/user-attachments/assets/001b2c94-db96-4932-b9bd-a573b0ecf010" />
+
+
+
 
